@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, Tailwind css,WordPress, Courses-Web development**
 
-- 💬 Ask me about **HTML5, CSS3, Javascript**
+- 💬 Ask me about **HTML5, CSS3, Javascript, React js**
 
 - 📫 How to reach me **coder.rabiulin@gmail.com**
 
